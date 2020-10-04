@@ -27,3 +27,14 @@
 .listInfo{
 	list-style-type: none;
 }
+
+.member-team{
+	height: 500px;
+	width: 1000px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.imageteam{
+	height: 500px;
+	width: 1000px;
+}
